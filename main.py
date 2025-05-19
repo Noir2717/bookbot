@@ -1,1 +1,2 @@
-print("greetings boots")
+main = ~/bookbot/books/frankenstein.txt
+retrun main
